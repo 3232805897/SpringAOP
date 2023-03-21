@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Bean1" removed="false">
+          <file>file://$MODULE_DIR$/bean1.xml</file>
+        </fileset>
+        <fileset id="fileset2" name="Bean" removed="false">
+          <file>file://$MODULE_DIR$/bean.xml</file>
+        </fileset>
+        <fileset id="fileset3" name="Bean2" removed="false">
+          <file>file://$MODULE_DIR$/bean2.xml</file>
+        </fileset>
+        <fileset id="fileset4" name="Bean4" removed="false">
+          <file>file://$MODULE_DIR$/src/bean4.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="com.springsource.net.sf.cglib-2.2.0" level="project" />
+  </component>
+</module>
